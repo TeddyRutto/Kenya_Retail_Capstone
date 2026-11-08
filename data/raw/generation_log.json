@@ -1,0 +1,29 @@
+{
+  "seed": 42,
+  "clean_rows": {
+    "stores": 16,
+    "products": 45,
+    "customers": 3000,
+    "transactions": 166461
+  },
+  "injected_issues": {
+    "transactions_missing_payment_method": 2496,
+    "transactions_missing_customer_id": 2496,
+    "transactions_missing_price": 832,
+    "transactions_inconsistent_payment_labels": 9825,
+    "transactions_quantity_outliers_x20_to_x50": 499,
+    "transactions_negative_quantity": 166,
+    "transactions_dates_in_dd/mm/yyyy_format": 1664,
+    "transactions_exact_duplicate_rows": 832,
+    "customers_county_inconsistent_case_or_spaces": 120,
+    "customers_missing_county": 30,
+    "customers_missing_segment": 30,
+    "customers_exact_duplicate_rows": 15
+  },
+  "written_rows": {
+    "stores": 16,
+    "products": 45,
+    "customers": 3015,
+    "transactions": 167293
+  }
+}
