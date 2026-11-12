@@ -1,0 +1,17 @@
+store_id,store_name,county,region
+S01,Jamii Mart Westlands,Nairobi,Nairobi
+S02,Jamii Mart Eastleigh,Nairobi,Nairobi
+S03,Jamii Mart Kilimani,Nairobi,Nairobi
+S04,Jamii Mart Embakasi,Nairobi,Nairobi
+S05,Jamii Mart Nyali,Mombasa,Coast
+S06,Jamii Mart Mombasa Island,Mombasa,Coast
+S07,Jamii Mart Kisumu CBD,Kisumu,Nyanza
+S08,Jamii Mart Nakuru Town,Nakuru,Rift Valley
+S09,Jamii Mart Eldoret,Uasin Gishu,Rift Valley
+S10,Jamii Mart Thika,Kiambu,Central
+S11,Jamii Mart Ruiru,Kiambu,Central
+S12,Jamii Mart Machakos,Machakos,Eastern
+S13,Jamii Mart Nyeri,Nyeri,Central
+S14,Jamii Mart Meru,Meru,Eastern
+S15,Jamii Mart Kakamega,Kakamega,Western
+S16,Jamii Mart Kisii,Kisii,Nyanza

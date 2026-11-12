@@ -1,0 +1,46 @@
+product_id,product_name,category,unit_price
+P001,Maize Flour 2kg,Staples,140
+P002,Wheat Flour 2kg,Staples,150
+P003,Sugar 1kg,Staples,170
+P004,Rice Pishori 2kg,Staples,420
+P005,Cooking Oil 1L,Staples,330
+P006,Cooking Fat 500g,Staples,220
+P007,Salt 1kg,Staples,50
+P008,Beans 1kg,Staples,190
+P009,Spaghetti 500g,Staples,110
+P010,Bread 400g,Staples,65
+P011,Fresh Milk 500ml,Dairy & Eggs,65
+P012,Long Life Milk 1L,Dairy & Eggs,140
+P013,Eggs Tray of 30,Dairy & Eggs,480
+P014,Yoghurt 500ml,Dairy & Eggs,130
+P015,Butter 250g,Dairy & Eggs,290
+P016,Tea Leaves 250g,Beverages,130
+P017,Instant Coffee 100g,Beverages,450
+P018,Soda 500ml,Beverages,70
+P019,Bottled Water 1L,Beverages,50
+P020,Fruit Juice 1L,Beverages,190
+P021,Laundry Soap Bar,Household,85
+P022,Washing Powder 1kg,Household,250
+P023,Dishwashing Liquid 750ml,Household,210
+P024,Toilet Paper 10pk,Household,480
+P025,Bleach 750ml,Household,180
+P026,Bathing Soap,Personal Care,90
+P027,Toothpaste 100ml,Personal Care,180
+P028,Body Lotion 400ml,Personal Care,420
+P029,Sanitary Pads 8pk,Personal Care,120
+P030,Shampoo 400ml,Personal Care,380
+P031,Deodorant Roll-on,Personal Care,350
+P032,Biscuits 200g,Snacks,90
+P033,Crisps 100g,Snacks,80
+P034,Chocolate Bar,Snacks,120
+P035,Groundnuts 200g,Snacks,100
+P036,Tomatoes 1kg,Fresh Produce,120
+P037,Onions 1kg,Fresh Produce,110
+P038,Kale (Sukuma Wiki) Bunch,Fresh Produce,30
+P039,Potatoes 2kg,Fresh Produce,180
+P040,Bananas Bunch,Fresh Produce,150
+P041,Diapers Medium 40pk,Baby,1250
+P042,Baby Formula 400g,Baby,1400
+P043,Baby Wipes 80pk,Baby,250
+P044,Cooking Gas Refill 6kg,Household,1500
+P045,Mandazi Flour Mix 1kg,Staples,130
